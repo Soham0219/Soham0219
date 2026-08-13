@@ -143,8 +143,17 @@ I love building and reproducing cutting-edge ML/LLM research from scratch, fine-
 </p>
 
 ---
+---
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Soham0219/Soham0219/main/github-metrics.svg"/>
+
+</p>
+
+---
 <div align="center">
+
 
 ### Thanks for visiting!
 
